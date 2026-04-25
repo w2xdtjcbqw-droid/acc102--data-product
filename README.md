@@ -28,8 +28,8 @@ This project analyses Apple’s historical stock price and volatility for financ
 3. View printed statistics and generated charts
 
 ## 6. Product Link & Demo
-GitHub Repository:https://github.com/w2xdtjcbqw-droid/acc102--data-product
-Demo Video: [your video link here]
+GitHub Repository:  https://github.com/w2xdtjcbqw-droid/acc102--data-product
+Demo Video:  https://b23.tv/fbbYuLU
 
 ## 7. Limitations & Next Steps
 - Limitations: Data covers historical prices only; no comparison with other companies
